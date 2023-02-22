@@ -4,8 +4,8 @@ import java.io.File
 
 private val input = File("src/main/kotlin/adventofcode/december12/input").readLines()
 fun main() {
-    println( part1(input) )
-    println( part2(input) )
+    println(  part1(input) )
+    //println( part2(input) )
 }
 
 fun part2(input: List<String>) : Int {
